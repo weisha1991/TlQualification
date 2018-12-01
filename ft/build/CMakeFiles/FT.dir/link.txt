@@ -1,0 +1,1 @@
+/usr/bin/c++    -o2 -std=c++0x   CMakeFiles/FT.dir/test-case/google_main.cpp.o CMakeFiles/FT.dir/test-case/test_lru_policy.cpp.o CMakeFiles/FT.dir/test-case/test_mru_policy.cpp.o  -o FT  -L/gtest/lib -rdynamic -lgtest -lpthread -Wl,-rpath,/gtest/lib 

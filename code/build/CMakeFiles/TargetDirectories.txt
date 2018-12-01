@@ -1,0 +1,3 @@
+/home/long/eclispseProject/10222506/code/build/CMakeFiles/edit_cache.dir
+/home/long/eclispseProject/10222506/code/build/CMakeFiles/rebuild_cache.dir
+/home/long/eclispseProject/10222506/code/build/CMakeFiles/caches.dir

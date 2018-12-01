@@ -1,0 +1,1 @@
+/usr/bin/c++    -o2 -std=c++0x   CMakeFiles/caches.dir/src/main.cpp.o  -o caches -rdynamic 
